@@ -13,7 +13,7 @@ gantt
         学习Lisp             :crit, active, 3d
         学习图形学        :crit, 4d
         跳伞           :2d
-        打枪                      :2d
+        学习                      :2d
 ```
 
-版本二号测试
+版本三号测试
